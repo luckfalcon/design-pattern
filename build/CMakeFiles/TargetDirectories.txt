@@ -1,0 +1,3 @@
+/home/mrhou/design-pattern/build/CMakeFiles/demo.dir
+/home/mrhou/design-pattern/build/CMakeFiles/edit_cache.dir
+/home/mrhou/design-pattern/build/CMakeFiles/rebuild_cache.dir
